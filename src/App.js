@@ -7,7 +7,7 @@ import UseReducer from './components/Hooks/useReducer'
 const App = () => {
     return (
         <>
-        <UseReducer />
+        <Resturant />
         </>
     )
 }
